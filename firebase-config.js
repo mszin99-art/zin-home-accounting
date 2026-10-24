@@ -17,7 +17,7 @@
   };
 */
 window.ZIN_FIREBASE = {
-  apiKey: "AIzaSyCXlXWBdxF0W4GXSfX6oNpLQ160K_iYLJo",
+  apiKey: "AIzaSyCXlXWBdxFOW4GXSfX6oNpLQ16OK_iYlJo",
   authDomain: "zin-home-fd742.firebaseapp.com",
   projectId: "zin-home-fd742",
   storageBucket: "zin-home-fd742.firebasestorage.app",
