@@ -16,4 +16,12 @@
     appId: "1:1234567890:web:abcdef"
   };
 */
-window.ZIN_FIREBASE = null;
+window.ZIN_FIREBASE = {
+  apiKey: "AIzaSyCXlXWBdxF0W4GXSfX6oNpLQ160K_iYLJo",
+  authDomain: "zin-home-fd742.firebaseapp.com",
+  projectId: "zin-home-fd742",
+  storageBucket: "zin-home-fd742.firebasestorage.app",
+  messagingSenderId: "549371911594",
+  appId: "1:549371911594:web:cccdd1194a5ccbfc425fd3",
+  measurementId: "G-BVV8X31L24"
+};
